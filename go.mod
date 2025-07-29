@@ -1,3 +1,3 @@
-module github.com/faizanfirdousi/p2p-go
+module github.com/faizanfirdousi/peerlink-go
 
 go 1.24.5
